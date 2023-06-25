@@ -34,12 +34,13 @@ The importer may need financing and protection against variation of rates of exc
 - What are the kind of risks by ECA. What are the types of defaults
 - What are the risks by stakeholders. Ans
   Exporter : non-pymt due to non-compliant docs, called by ECA, loss of cover if bribery, insufficient funding if loan in diff currency
-  Importer : 
+  Importer : delays in implementation of ex cr, insufficient funding if loan in diff currency
+  Lender : cr risk, exporter & comm ctt risk, op risk, fin risk, reg risk, rep risk
 
 Glossary
 - PRI
 - DFI (Development Financial Institution) and their role. Ans : Export Finance is oriented towards exporter. Devp Finance is oriented towards buyer
-- PCS. Ans : Preferred Creditor Status
+- PCS. Ans : Preferred Creditor Status. It means they get paid first. Normally reserved to sovereign (or public entities), MDBs claim they also benefit from it. IFC which gives loans to private sector also claims to fall under this category
 - MDBs
 - IDA. Ans : International Development Association. Extends grants and concessional financial findings to low-income countries. Interest-free
 - IBRD. Ans : International Bank for Reconstruction and Development. Extends non-concessional loans and guarantees. 
