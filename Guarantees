@@ -42,6 +42,7 @@ Unlimited - return of original Guarantee or stmt of full release by Beni
 - Who to assign pymt demand. Ans : Assignor
 - When assignment of proceeds cannot happen. Ans : When expressly prohibited
 - When assignment of rights / transfer can happen. Ans : When it is expressly allowed
+- What is the difference btw LC and Standby LC. Ans : conflict of data. LC would check, Standby LC would allow
 
 
 Glossary
